@@ -1,0 +1,117 @@
+{
+    "HomePage": {
+        "title": "Airo Chat",
+        "subtitle": "Internal Documents of Perumda Air Minum Surya Sembada",
+        "description": "A web or mobile-based application designed to help employees and management of Perumda Air Minum Surya Sembada Surabaya to find, understand, and comply with various internal company regulations, SOPs, and legal documents.",
+        "usefulFeature": {
+            "title": "Useful Features",
+            "subtitle": {
+                "part1": "Everything you need",
+                "part2": "to search for Company Documents and Regulations"
+            },
+            "description": "Responsible for measures to increase operational efficiency and ensure legal compliance within the company.",
+            "features": {
+                "search": {
+                    "title": "Quick Search & Filtering",
+                    "description": "Allows users to search for documents based on keywords, categories, or regulation numbers."
+                },
+                "update": {
+                    "title": "Automatic Regulation Updates",
+                    "description": "Provides the latest information on changes to Board of Directors Regulations, SOPs, or other internal documents."
+                },
+                "compliance": {
+                    "title": "Compliance Guide",
+                    "description": "Provides a summary and simple interpretation of complex rules to facilitate understanding and implementation."
+                },
+                "notification": {
+                    "title": "Alerts & Notifications",
+                    "description": "Reminds users about relevant regulation updates or compliance deadlines related to their operations or interests."
+                },
+                "bookmark": {
+                    "title": "Bookmark & Notes Feature",
+                    "description": "Users can save important regulations and add personal notes for future reference."
+                },
+                "integration": {
+                    "title": "Integration with Other Systems",
+                    "description": "Supports integration with compliance management systems or ERP to enhance operational efficiency."
+                }
+            }
+        }
+    },
+    "document": {
+        "title": "Documents",
+        "create": "Create Document",
+        "refresh": "Refresh",
+        "postSelected": "Post Selected",
+        "search": "Search",
+        "searchPlaceholder": "Search Documents",
+        "category": {
+            "label": "Category",
+            "all": "All",
+            "internal": "Internal Regulations",
+            "eksternal": "External Regulations"
+        },
+        "table": {
+            "no": "No",
+            "title": "Title",
+            "filename": "File Name",
+            "category": "Category",
+            "status": "Status",
+            "createdAt": "Created At",
+            "updatedAt": "Updated At",
+            "actions": "Actions"
+        },
+        "confirm": {
+            "delete": {
+                "title": "Delete Confirmation",
+                "message": "Are you sure you want to delete this document {title}?"
+            }
+        },
+        "messages": {
+            "selectOne": "Please select at least one document",
+            "deleteSuccess": "Document successfully deleted",
+            "postSuccess": "Document successfully posted"
+        }
+    },
+    "chatbot": {
+        "title": "Chatbot",
+        "sidebar": {
+            "search": "Search Chats",
+            "newChat": "New Chat",
+            "newChatTitle": "New Chat Session",
+            "history": "History",
+            "delete": "Delete"
+        },
+        "chatContent": {
+            "startConversation": "Select a session to start a conversation.",
+            "selectSession": "Select Chat Session",
+            "viewContact": "View Contact",
+            "clearChat": "Clear Chat"
+        },
+        "chatLog": {
+            "thinking": "AI is thinking...",
+            "references": "References"
+        },
+        "sendMessage": {
+            "placeholder": "Type a message",
+            "send": "Send"
+        },
+        "referencesDialog": {
+            "title": "References",
+            "answer": "Answer",
+            "sources": "Sources",
+            "page": "Page",
+            "close": "Close"
+        },
+        "userProfile": {
+            "about": "About",
+            "personalInfo": "Personal Info",
+            "options": "Options",
+            "addTag": "Add Tag",
+            "importantContact": "Important Contacts",
+            "sharedImage": "Shared Images",
+            "blockContact": "Block Contact",
+            "deleteContact": "Delete Contact"
+        }
+    }
+}

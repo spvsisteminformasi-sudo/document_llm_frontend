@@ -1,0 +1,117 @@
+{
+    "HomePage": {
+        "title": "Airo Chat",
+        "subtitle": "Dokumen Internal Perumda Air Minum Surya Sembada",
+        "description": "Aplikasi berbasis web atau mobile yang dirancang untuk membantu karyawan dan manajemen Perumda Air Minum Surya Sembada Kota Surabaya dalam menemukan, memahami, dan mematuhi berbagai peraturan, SOP, dan dokumen hukum internal perusahaan.",
+        "usefulFeature": {
+            "title": "Fitur Berguna",
+            "subtitle": {
+                "part1": "Semua yang Anda butuhkan",
+                "part2": "untuk mencari Dokumen dan Aturan Perusahaan"
+            },
+            "description": "Bertanggung jawab atas langkah-langkah untuk meningkatkan efisiensi operasional dan memastikan kepatuhan hukum di lingkungan internal perusahaan.",
+            "features": {
+                "search": {
+                    "title": "Pencarian Cepat & Filterisasi",
+                    "description": "Memungkinkan pengguna untuk mencari dokumen berdasarkan kata kunci, kategori, atau nomor regulasi."
+                },
+                "update": {
+                    "title": "Pembaruan Peraturan Otomatis",
+                    "description": "Menyediakan informasi terbaru tentang perubahan pada Peraturan Direksi, SOP, atau dokumen internal lainnya."
+                },
+                "compliance": {
+                    "title": "Panduan Kepatuhan",
+                    "description": "Memberikan ringkasan dan interpretasi sederhana dari aturan kompleks untuk memudahkan pemahaman dan implementasi."
+                },
+                "notification": {
+                    "title": "Peringatan & Notifikasi",
+                    "description": "Mengingatkan pengguna tentang pembaruan peraturan yang relevan dengan operasi atau kepentingan mereka"
+                },
+                "bookmark": {
+                    "title": "Fitur Bookmark & Catatan",
+                    "description": "Pengguna dapat menyimpan regulasi penting dan menambahkan catatan pribadi untuk referensi di masa mendatang"
+                },
+                "integration": {
+                    "title": "Integrasi dengan Sistem Lain",
+                    "description": "Mendukung integrasi dengan sistem manajemen kepatuhan atau ERP untuk meningkatkan efisiensi operasional"
+                }
+            }
+        }
+    },
+    "document": {
+        "title": "Dokumen",
+        "create": "Buat Dokumen",
+        "refresh": "Muat Ulang",
+        "postSelected": "Publikasikan Terpilih",
+        "search": "Cari",
+        "searchPlaceholder": "Cari Dokumen",
+        "category": {
+            "label": "Kategori",
+            "all": "Semua",
+            "internal": "Aturan Internal",
+            "eksternal": "Aturan Eksternal"
+        },
+        "table": {
+            "no": "No",
+            "title": "Judul",
+            "filename": "Nama File",
+            "category": "Kategori",
+            "status": "Status",
+            "createdAt": "Dibuat Pada",
+            "updatedAt": "Diperbarui Pada",
+            "actions": "Aksi"
+        },
+        "confirm": {
+            "delete": {
+                "title": "Konfirmasi Hapus",
+                "message": "Apakah anda yakin ingin menghapus dokumen ini {title}?"
+            }
+        },
+        "messages": {
+            "selectOne": "Silakan pilih minimal satu dokumen",
+            "deleteSuccess": "Dokumen berhasil dihapus",
+            "postSuccess": "Dokumen berhasil dipost"
+        }
+    },
+    "chatbot": {
+        "title": "Chatbot",
+        "sidebar": {
+            "search": "Cari Obrolan",
+            "newChat": "Obrolan Baru",
+            "newChatTitle": "Sesi Obrolan Baru",
+            "history": "Riwayat",
+            "delete": "Hapus"
+        },
+        "chatContent": {
+            "startConversation": "Pilih sesi untuk memulai percakapan.",
+            "selectSession": "Pilih Sesi Obrolan",
+            "viewContact": "Lihat Kontak",
+            "clearChat": "Bersihkan Obrolan"
+        },
+        "chatLog": {
+            "thinking": "AI sedang berpikir...",
+            "references": "Referensi"
+        },
+        "sendMessage": {
+            "placeholder": "Ketik sebuah pesan",
+            "send": "Kirim"
+        },
+        "referencesDialog": {
+            "title": "Referensi",
+            "answer": "Jawaban",
+            "sources": "Sumber",
+            "page": "Halaman",
+            "close": "Tutup"
+        },
+        "userProfile": {
+            "about": "Tentang",
+            "personalInfo": "Informasi Pribadi",
+            "options": "Opsi",
+            "addTag": "Tambah Tag",
+            "importantContact": "Kontak Penting",
+            "sharedImage": "Gambar Terbagi",
+            "blockContact": "Blokir Kontak",
+            "deleteContact": "Hapus Kontak"
+        }
+    }
+}
